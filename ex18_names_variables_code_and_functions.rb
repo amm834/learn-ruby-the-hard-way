@@ -1,3 +1,4 @@
+#  * means list of args like ...args in js
 def get_args(*args)
   first, second = args
   puts "first: #{first}"
