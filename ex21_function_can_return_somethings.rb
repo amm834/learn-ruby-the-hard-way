@@ -15,7 +15,7 @@ def divide(a, b)
 end
 
 def modulo(a, b)
-  return a % b
+  a % b
 end
 
 total = add(1, 3)
